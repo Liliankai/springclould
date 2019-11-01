@@ -7,7 +7,7 @@
 		<artifactId>test1</artifactId>
 		<version>1.0-SNAPSHOT</version>
 	</parent>
-	<groupId>com.springclouldtest</groupId>
+	<groupId>com.springcloud1</groupId>
 	<artifactId>service-ribbon</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>service-ribbon</name>

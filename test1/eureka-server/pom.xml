@@ -7,7 +7,7 @@
 		<artifactId>test1</artifactId>
 		<version>1.0-SNAPSHOT</version>
 	</parent>
-	<groupId>com.springcloudtest</groupId>
+	<groupId>com.springcloud1</groupId>
 	<artifactId>eureka-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>eureka-server</name>
